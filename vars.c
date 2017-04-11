@@ -13,8 +13,6 @@ int main(int  argc,char *argv[]){
 		randomX=rand();
 	}
 	ResultVar=randomX%NumVar+1;
-	if (passport= 2465389) {
-	printf("Vash variant: 5\n");}else
 	printf("Vash variant: %d\n",ResultVar);
 	return 0;
 }
